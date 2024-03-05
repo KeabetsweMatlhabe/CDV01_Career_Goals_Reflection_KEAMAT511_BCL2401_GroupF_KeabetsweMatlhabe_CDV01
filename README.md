@@ -45,8 +45,8 @@ Field of Interest:Web developer
 # Part 4: Action Plan
   1.Steps to Achieve Short-term Goals:
    -
-    -Research and enroll in online courses or certification program for front end and back end development technologies.
-    -Allocate time each week for self-study and practical exercises to enhance learning and apply new concepts effectively.Participate in coding challenges individually and as part of a team to gain hands-on 
+   -Research and enroll in online courses or certification program for front end and back end development technologies.
+   -Allocate time each week for self-study and practical exercises to enhance learning and apply new concepts effectively.Participate in coding challenges individually and as part of a team to gain hands-on 
      experience and network with other developers.
   
   2.Preparation for Long-term Goals:
@@ -64,8 +64,8 @@ Field of Interest:Web developer
 
   2.Opportunities for Growth:
    -
-    -Making use of  online resources, workshops, and conferences to stay updated on the latest trends and advancements in web development.
-    -Seeking mentorship from experienced web developers or industry professionals to receive guidance and advice on career development and skill enhancement.
+   -Making use of  online resources, workshops, and conferences to stay updated on the latest trends and advancements in web development.
+   -Seeking mentorship from experienced web developers or industry professionals to receive guidance and advice on career development and skill enhancement.
   
      
 
