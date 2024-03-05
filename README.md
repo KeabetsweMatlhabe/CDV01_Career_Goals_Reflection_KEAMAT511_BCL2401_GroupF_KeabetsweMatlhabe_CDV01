@@ -84,10 +84,11 @@ Field of Interest:Web developer
 
   2.Opportunities for Growth:
    -
-    -Leveraging online resources, workshops, and conferences to stay updated on the latest 
+    -Making use of  online resources, workshops, and conferences to stay updated on the latest 
      trends and advancements in web development.
     -Seeking mentorship from experienced web developers or industry professionals to receive 
      guidance and advice on career development and skill enhancement.
+     -
 
 
 
