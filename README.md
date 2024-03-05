@@ -60,9 +60,9 @@ Field of Interest:Web developer
    -
     -Research and enroll in online courses or certification program for front end and back end 
      development technologies.
-    -Allocate dedicated time each week for self-study and practical exercises to reinforce 
-     learning and apply new concepts effectively.Participate in coding challenges individually 
-     and as part of a team to gain hands-on experience and network with other developers.
+    -Allocate time each week for self-study and practical exercises to enhance learning and 
+     apply new concepts effectively.Participate in coding challenges individually and as part 
+     of a team to gain hands-on experience and network with other developers.
   
   2.Preparation for Long-term Goals:
    -
@@ -89,6 +89,5 @@ Field of Interest:Web developer
     -Seeking mentorship from experienced web developers or industry professionals to receive 
      guidance and advice on career development and skill enhancement.
      -
-
 
 
